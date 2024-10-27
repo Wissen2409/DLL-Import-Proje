@@ -1,12 +1,13 @@
 ﻿
+Console.WriteLine("");
 
-// Exe Dosyası içerisinde, daha önce yazdığımız DLL dosyasını , proje dizinine bir libs klasörü açıp
-// daha önce oluşturduğumuz DLL dosyasını içerisine kopyaladık!!
+/*
 
-// daha sonra termal ekranından dotnet build yazdık.!!
-// dll içerisindeki sınıfları kullanmak için, namespaceleri eklemek gerekmektedir!!
+<ItemGroup>
+  <Reference Include="dllkodkutuphanesi.dll">
+    <HintPath>C:\Users\oguzf\Desktop\wissenders\dll-import-proje\libs\dllkodkutuphanesi.dll</HintPath>
+  </Reference>
+</ItemGroup>
+ 
 
-//using DLL_KodKutuphanesi;
-//Ogrenci o = new Ogrenci();
-
-Ogrenci o = new Ogrenci();
+*/

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DLL-Import-Proje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30cf452134be73e772376ac0de252fd615a60316")]
 [assembly: System.Reflection.AssemblyProductAttribute("DLL-Import-Proje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DLL-Import-Proje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

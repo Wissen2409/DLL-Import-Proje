@@ -12,3 +12,8 @@
 /Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Import-Proje.pdb
 /Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Import-Proje.genruntimeconfig.cache
 /Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/ref/DLL-Import-Proje.dll
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Import-Proje.csproj.AssemblyReference.cache
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Import-Proje.sourcelink.json
+/Users/emrahelis/DLL-Import-Proje/bin/Debug/net8.0/DLL_KodKutuphanesi.dll
+/Users/emrahelis/DLL-Import-Proje/bin/Debug/net8.0/DLL_KodKutuphanesi.pdb
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Impo.3B6F71AE.Up2Date

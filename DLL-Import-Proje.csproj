@@ -9,10 +9,11 @@
   </PropertyGroup>
 
 
-  <ItemGroup>
-   <PackageReference Include="DLL_KodKutuphanesi" >
-     <HintPath>/Users/emrahelis/DLL-Import-Proje/dosya/DLL_KodKutuphanesi.dll</HintPath>
-     </PackageReference>
-   </ItemGroup> 
+ <ItemGroup>
+  <Reference Include="dllkodkutuphanesi.dll">
+    <HintPath>/Users/emrahelis/DLL-Import-Proje/libs/DLL_KodKutuphanesi.dll</HintPath>
+  </Reference>
+</ItemGroup>
+ 
 
 </Project>

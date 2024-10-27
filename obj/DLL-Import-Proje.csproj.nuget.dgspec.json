@@ -42,12 +42,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "DLL_KodKutuphanesi": {
-              "target": "Package",
-              "version": "(, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
