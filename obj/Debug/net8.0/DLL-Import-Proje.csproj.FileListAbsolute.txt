@@ -1,0 +1,14 @@
+/Users/emrahelis/DLL-Import-Proje/bin/Debug/net8.0/DLL-Import-Proje
+/Users/emrahelis/DLL-Import-Proje/bin/Debug/net8.0/DLL-Import-Proje.deps.json
+/Users/emrahelis/DLL-Import-Proje/bin/Debug/net8.0/DLL-Import-Proje.runtimeconfig.json
+/Users/emrahelis/DLL-Import-Proje/bin/Debug/net8.0/DLL-Import-Proje.dll
+/Users/emrahelis/DLL-Import-Proje/bin/Debug/net8.0/DLL-Import-Proje.pdb
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Import-Proje.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Import-Proje.AssemblyInfoInputs.cache
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Import-Proje.AssemblyInfo.cs
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Import-Proje.csproj.CoreCompileInputs.cache
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Import-Proje.dll
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/refint/DLL-Import-Proje.dll
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Import-Proje.pdb
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/DLL-Import-Proje.genruntimeconfig.cache
+/Users/emrahelis/DLL-Import-Proje/obj/Debug/net8.0/ref/DLL-Import-Proje.dll

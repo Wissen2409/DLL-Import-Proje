@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DLL_KodKutuphanesi"
+    ]
+  },
+  "packageFolders": {
+    "/Users/emrahelis/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/emrahelis/DLL-Import-Proje/DLL-Import-Proje.csproj",
+      "projectName": "DLL-Import-Proje",
+      "projectPath": "/Users/emrahelis/DLL-Import-Proje/DLL-Import-Proje.csproj",
+      "packagesPath": "/Users/emrahelis/.nuget/packages/",
+      "outputPath": "/Users/emrahelis/DLL-Import-Proje/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/emrahelis/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "DLL_KodKutuphanesi": {
+            "target": "Package",
+            "version": "(, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency DLL_KodKutuphanesi does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "DLL_KodKutuphanesi",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package DLL_KodKutuphanesi. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "DLL_KodKutuphanesi",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

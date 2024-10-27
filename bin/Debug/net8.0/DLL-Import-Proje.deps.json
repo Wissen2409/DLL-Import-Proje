@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DLL-Import-Proje/1.0.0": {
+        "runtime": {
+          "DLL-Import-Proje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DLL-Import-Proje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
